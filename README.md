@@ -8,10 +8,7 @@ My name is **Deborah** and i am **maths lover** and a **ML enthousiast** 🌱
 
 ### My tools :
 My favorite tools are 🔭:
-<img src='![python (1)](https://github.com/user-attachments/assets/0bc1961b-85ae-43f8-981c-b5a3ca042333)' width=100>
-<img src='![mysql](https://github.com/user-attachments/assets/c09ff4bc-9c07-49d7-992c-f7435427b8fb)' width=100>
-<img src='![react](https://github.com/user-attachments/assets/318cc2de-53f2-49da-ba75-8ae66141e09b)' width=100>
-<img src='![github_11376339](https://github.com/user-attachments/assets/dfcc2665-d873-4467-9e71-97d4d112cab2)' width=100>
+<img src="https://cdn-icons-png.freepik.com/256/1822/1822899.png?ga=GA1.1.481465288.1747139536&semt=ais_hybrid">
 
 
 ---
