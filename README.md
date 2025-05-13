@@ -1,7 +1,15 @@
-## Welcome to Deborah's WoOOorld !! 👋
+## Welcome to ⭐ Deborah's WoOOorld !! ⭐
 
-<!--
-**DeborahSoanavalona/DeborahSoanavalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Hiii there 🫡
+Here's a **math lover** and a **ML enthousiast** 🌱
+
+My favorite tools are :
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
