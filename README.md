@@ -16,7 +16,7 @@ My favorite tools are 🔭:
 ---
 
 Feel free to contact me anytime through those links 🌟
-<a href="https://www.linkedin.com/in/deborah-razafindrabezandrina-50807634b/" target="blank">
+<br/><a href="https://www.linkedin.com/in/deborah-razafindrabezandrina-50807634b/" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/128/3938/3938044.png" height=100>
 </a>
 <a href="https://www.instagram.com/soanavalona_7091/" target="blank">
