@@ -4,7 +4,7 @@
 
 ### About me :
 Hiii there 🫡
-My name is **Deborah** and i am **maths lover** and a **ML enthousiast** 🌱
+- My name is **Deborah** and i am **maths lover** and a **ML enthousiast** 🌱
 
 ### My tools :
 My favorite tools are 🔭:
