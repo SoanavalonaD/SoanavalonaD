@@ -8,7 +8,7 @@ My name is **Deborah** and i am **maths lover** and a **ML enthousiast** 🌱
 
 ### My tools :
 My favorite tools are 🔭:
-<img src="https://cdn-icons-png.freepik.com/256/1822/1822899.png?ga=GA1.1.481465288.1747139536&semt=ais_hybrid" height=100>
+<br/><img src="https://cdn-icons-png.freepik.com/256/1822/1822899.png?ga=GA1.1.481465288.1747139536&semt=ais_hybrid" height=100>
 
 
 ---
