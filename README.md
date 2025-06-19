@@ -1,7 +1,4 @@
-### Hiii there 🫡
-<br/> My name is **Deborah** and i am **maths lover** and a **ML enthousiast** 🌱
 
----
 # 💫 About Me:
 🔭 I’m an IT student at the ESTI uni<br>🤝 I’m open to collaborations and DMs<br>🌱 I’m currently looking for new challenges (especially maths xD)
 
