@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-🔭 I’m an Deborah, an IT student at the ESTI uni<br>
+🔭 I’m Deborah, an IT student at the ESTI uni<br>
 🌱 I’m currently looking for new challenges (especially maths xD)
 
 # 🌐 Socials
