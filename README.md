@@ -9,7 +9,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soanavalonadeborah@gmail.com) 
 
 # 💻 Tech Stack
-<table>
+<table align="center">
 	<tr height="54">
 		<th align="left">Programming and Markup Languages</th>
 		<td>
