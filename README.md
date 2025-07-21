@@ -13,10 +13,9 @@
 	<tr height="54">
 		<th align="left">Programming and Markup Languages</th>
 		<td>
-		   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%20php?logo=php&logoColor=%23fff&color=%23777BB4"></a>
+		<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%20py?logo=python&logoColor=%23fff&color=%233776AB"></a>
 	      <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%20js?logo=javascript&logoColor=%23fff&color=%23F7DF1E"></a>
 	      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20ts?logo=typescript&logoColor=%23fff&color=%233178C6"></a>
-	      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%20py?logo=python&logoColor=%23fff&color=%233776AB"></a>
 	      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%20html?logo=html5&logoColor=%23fff&color=%23E34F26"></a>
 	      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%20css?logo=css3&logoColor=%23fff&color=%231572B6"></a> 
 	   </td>
@@ -24,10 +23,9 @@
 	<tr height="54">
 		<th align="left">📐 Frameworks</th>
 		<td>
-		   <a href="#"><img alt="NestJs" src="https://img.shields.io/badge/NestJs-%20nestjs?logo=nestjs&logoColor=%23fff&color=%23E0234E"></a>
 		   <a href="#"><img alt="NextJs" src="https://img.shields.io/badge/NextJs-%20nextdotjs?logo=nextdotjs&logoColor=%23fff&color=%23000000"></a>
 		   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-%20express?logo=express&logoColor=%23fff&color=%23000000"></a>
-		   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%20express?logo=flask&logoColor=%23fff&color=%23000000"></a>
+		   <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-%20express?logo=django&logoColor=%23fff&color=%23000000"></a>
 		   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%20express?logo=react&logoColor=%23fff&color=%2361DAFB"></a>
 	   </td>
 	</tr>
